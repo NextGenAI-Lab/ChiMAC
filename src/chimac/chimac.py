@@ -4,7 +4,6 @@ import numpy as np
 from PIL import Image
 
 from chimac.utils.adjust_sampler import adjust_and_sample
-from . import __name__
 
 
 class ChiMAC:
