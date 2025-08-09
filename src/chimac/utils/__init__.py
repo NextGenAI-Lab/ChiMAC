@@ -1,5 +1,5 @@
-from utils.adjust_sampler import adjust_and_sample
-from utils.image_ops import (
+from .adjust_sampler import adjust_and_sample
+from .image_ops import (
     op_brightness,
     op_contrast,
     op_flip,

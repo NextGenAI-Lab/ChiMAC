@@ -3,7 +3,7 @@ from typing import Callable, List, Optional
 import numpy as np
 from PIL import Image
 
-from utils.adjust_sampler import adjust_and_sample
+from chimac.utils.adjust_sampler import adjust_and_sample
 from . import __name__
 
 

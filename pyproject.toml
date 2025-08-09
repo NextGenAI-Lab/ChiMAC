@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "chimac"
-version = "0.3.1"
+version = "0.3.7"
 description = "Chi-square based Class Imbalance Mitigation Algorithm for Controlled Augmentation"
 readme = "README.md"
 license = { file = "LICENSE" }
