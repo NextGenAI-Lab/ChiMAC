@@ -4,7 +4,7 @@ from typing import Optional
 
 import numpy as np
 import torch
-from logger import Logger
+from .logger import Logger
 
 
 def seed_all(
